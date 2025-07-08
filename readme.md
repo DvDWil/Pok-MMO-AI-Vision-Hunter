@@ -1,7 +1,7 @@
 # PokéMMO AI Vision Hunter
 
 <p align="center">
-  <img src="https://imgur.com/gallery/pok-mmo-ai-vision-hunter-JUVGDkW" alt="Interface do Bot" width="600"/>
+  <img src="[https://imgur.com/gallery/pok-mmo-ai-vision-hunter-JUVGDkW](https://imgur.com/gallery/pok-mmo-ai-vision-hunter-JUVGDkW)" alt="Interface do Bot" width="600"/>
 </p>
 
 ## 🌟 Sobre o Projeto
