@@ -1,0 +1,31 @@
+{
+  "perfil_ativo": "Farm com Hotkeys",
+  "perfis": {
+    "Farm com Hotkeys": {
+      "pokemon_alvo": ["Magikarp", "Dratini"],
+      "tempo_espera_batalha": 15,
+      "pp_total_aroma_doce": 32,
+      "hotkeys": {
+        "aroma_doce": "6",
+        "menu_frutas": "4"
+      },
+      "coords_fruta": {
+        "pokemon_para_usar_fruta": [913, 592],
+        "habilidade_para_restaurar": [899, 590],
+        "botao_maximo_frutas": [1041, 554],
+        "botao_usar_frutas": [959, 614]
+      },
+      "verificacao_batalha": {
+        "bbox_botao_fugir": [510, 730, 708, 772],
+        "texto_esperado": "FUGIR"
+      },
+      "bbox_nome_pokemon": [
+        { "posicao": "Superior Esquerdo", "bbox": [574, 98, 807, 117] },
+        { "posicao": "Superior Meio", "bbox": [836, 102, 1064, 119] },
+        { "posicao": "Superior Direito", "bbox": [1095, 100, 1323, 118] },
+        { "posicao": "Inferior Esquerdo", "bbox": [574, 141, 807, 157] },
+        { "posicao": "Inferior Meio", "bbox": [1095, 143, 1323, 160] }
+      ]
+    }
+  }
+}
